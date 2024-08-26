@@ -1,4 +1,4 @@
-<img width="1100px" src="https://t4.ftcdn.net/jpg/08/23/16/71/360_F_823167120_rxDpbnQVCtLQLedOsBx69IWtskvKyX0V.jpg">
+<img width="1100px" src="https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 <h1 align="center">Hi 👋, I'm Aref Dashtgard</h1>
 <h3 align="center">A simple and learning programmer from Iran</h3>
 <img align="right" alt="coding" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
