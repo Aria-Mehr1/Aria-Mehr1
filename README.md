@@ -3,8 +3,6 @@
 <h3 align="center">A simple and learning programmer from Iran</h3>
 <img align="right" alt="coding" width="400px" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aria-mehr1&label=Profile%20views&color=0e75b6&style=flat" alt="aria-mehr1" /> </p>
-
 - 🔭 I’m currently working on **Personal website**
 
 - 🌱 I’m currently learning **tailwindcss , bootstrap 4 , Typescript , React**
@@ -13,7 +11,7 @@
 
 - 📫 How to reach me **rt1115ad@gmail.com**
 
-- ⚡ Fun fact **Interested in studying space technologies**
+- ⚡ Fun fact **I am very interested in astronomy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
