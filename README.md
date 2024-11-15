@@ -14,6 +14,7 @@
 <h2><p align="center">🌐 Socials:</p>
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Turbulent_Cow415) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/light_speed_x1) 
 
 <h2><p align="center">📊 GitHub Stats:</p>
 
