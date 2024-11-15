@@ -4,12 +4,10 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+welcome+to+my+GitHub+👋;+I'm+Aref;" />
 </h1>
 <h2><p align="center">about me:</p></h2>
-<h4>
 - 🔭 I am currently working on a website for my resume<br/>
 - 🌱 I am currently learning: React, Angular, and Tailings CSS<br/>
 - 💬 Ask me about web development<br/>
 - ⚡ The longest battle in world history is the war between the Persian and Roman empires<br/>
-</h4>
 <h2 align="center"> <p align="center">💻 Abilities:</p>
   <img align="center" src="https://skillicons.dev/icons?i=webstorm,vscode,unreal,sass,ruby,py,pycharm,powershell,php,phpstorm,js,nodejs,kotlin,idea,html,css,git,github,figma,debian,c,cpp,clion,ubuntu,bash,arch,kali&them=black" alt="Abilities"/>
 </h2>
