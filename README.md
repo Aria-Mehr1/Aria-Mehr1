@@ -9,7 +9,7 @@
 - 💬 Ask me about web development<br/>
 - ⚡ The longest battle in world history is the war between the Persian and Roman empires<br/>
 <h2 align="center"> <p align="center">💻 Abilities:</p>
-  <img align="center" src="https://skillicons.dev/icons?i=webstorm,vscode,unreal,sass,ruby,py,pycharm,powershell,php,phpstorm,js,nodejs,kotlin,idea,html,css,git,github,figma,debian,c,cpp,clion,ubuntu,bash,arch,kali&them=black" alt="Abilities"/>
+  <img align="center" src="https://skillicons.dev/icons?i=webstorm,vscode,unreal,sass,go,ruby,py,pycharm,powershell,php,phpstorm,js,nodejs,kotlin,idea,html,css,git,github,figma,debian,c,cpp,clion,ubuntu,bash,arch,kali&them=black" alt="Abilities"/>
 </h2>
 <h2><p align="center">🌐 Socials:</p>
 
